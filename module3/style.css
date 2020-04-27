@@ -1,0 +1,33 @@
+body{
+    font-size: 16px;
+    font-family: 'Patrick Hand', cursive;
+}
+
+#heading{
+	font-family: 'Special Elite', cursive;
+}
+
+#main-nav{
+	border-radius: 0;
+	background-color: #d9e1e8;
+	padding: 20px;
+}
+
+
+
+#nav-button .icon-bar{
+	border: 1px solid #000;
+	background-color: #d9e1e8
+}
+
+#brand{
+	color: #000;
+	margin: 0px;
+}
+
+#main-content{
+	background-color: #282c37;
+	color:#d9e1e8;
+	margin: 15px;
+	height: 1000px;
+}

@@ -1,4 +1,4 @@
-function (){
+(function (){
   var namelist = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
   for (var name in namelist) {
     var letter = namelist[name].charAt(0);    
